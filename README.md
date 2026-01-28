@@ -1,0 +1,1 @@
+sentence transformer for category company
